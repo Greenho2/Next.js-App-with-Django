@@ -1,4 +1,4 @@
-# Next.js-App-with-Django-and-docker
+# Next.js-App-with-Django-and-Docker
 This project displays up to four different charts with data.
 These charts include a candlestick chart, a line chart, a bar chart, and a pie chart.
 The candlestick chart was done by using ApexCharts and the other charts were done by using ChartJS.
